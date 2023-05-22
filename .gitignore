@@ -1,0 +1,10 @@
+target
+**/tmp/**
+.DS_Store
+/rust
+
+# WASM
+pkg/
+node_modules/
+bin/
+
